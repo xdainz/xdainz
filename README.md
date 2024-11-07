@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="right"/>
-    <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="left"/> 
+    <div style="pointer-events:none">
+        <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="right"/>
+        <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="left"/> 
+    </div>
     <h3>⛈️ x/dainz</h3>
-
-
 <pre>
 💬 21 • Student
 💻 Java • Python
