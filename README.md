@@ -1,8 +1,8 @@
 <div align="center">
-    <div style="pointer-events:none">
+    <picture>
         <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="right"/>
         <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="left"/> 
-    </div>
+    </picture>
     <h3>⛈️ x/dainz</h3>
 <pre>
 💬 21 • Student
