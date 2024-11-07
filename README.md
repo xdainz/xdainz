@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/xdainz/xdainz/assets/empty" width="35%" align="right"/>
-    <img src="https://github.com/xdainz/xdainz/assets/empty" width="35%" align="left"/> 
+    <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="right"/>
+    <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="left"/> 
     <h3>⛈️ x/dainz</h3>
 
 
