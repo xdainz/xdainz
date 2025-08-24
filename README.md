@@ -5,10 +5,9 @@
     </picture>
     <h3>⛈️ x/dainz</h3>
 <pre>
-💬 21 • Student
+💬 22 • Student
 💻 Java • Python
 🎧 Music • Games • Code 
-📖 One Dark Window
 </pre>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/mat%C3%ADas-arancibia/)
