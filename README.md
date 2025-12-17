@@ -1,15 +1,8 @@
-<div align="center">
-    <picture>
-        <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="right"/>
-        <img src="https://github.com/xdainz/xdainz/blob/main/assets/empty.png?raw=true" width="35%" align="left"/> 
-    </picture>
+<div align="center" style="max-width: 300px; margin: auto;">
     <h3>⛈️ x/dainz</h3>
 <pre>
 💬 22 • Student
-💻 Java • Python
-🎧 Music • Games • Code 
+💻 <a href='https://xdainz.github.io/website'>Portfolio</a>
 </pre>
-
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/mat%C3%ADas-arancibia/)
 
 </div>
